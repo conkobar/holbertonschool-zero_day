@@ -1,0 +1,1 @@
+This section of the repository is dedicated to Emacs.
